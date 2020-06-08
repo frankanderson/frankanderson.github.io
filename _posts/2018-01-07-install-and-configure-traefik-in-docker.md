@@ -11,6 +11,8 @@ article_header:
 
 # Part 3 of [Build Your Site or Blog on Docker, Traefik, & Ghost](2018-01-05-build-your-site-on-docker-traefik-ghost.md)
 
+### Sorting out htpasswd
+
 Before we get our Traefik 1.7 container up and running, we need to create a configuration file and an encrypted password so we can access the monitoring dashboard.
 
 Install the **htpasswd** utility to create this encrypted password. You'll need to figure out which package contains it for your linux distro. You could install the full httpd server package, but that is a waste of space. On CentOS, you can search for all the packages containing htpasswd with `yum provides`:
@@ -56,6 +58,8 @@ It looks like **httpd-tools** is the right package for CentOS, so let's install 
 
 `# yum install httpd-tools`
 
+### Generating the Password
+
 Now let's generate a secure password for our Traefik monitoring dashboard. Substitute `your_secure_password` with the password you'd like to use for the Traefik admin user:
 
 `# htpasswd -nb admin your_secure_password`
@@ -79,7 +83,9 @@ Traefik is just another container, so I will save its configuration file in a di
 # cd /opt/traefik
 ```
 
-### In the `traefik` directory, we can now create the 3 files we need. First, `traefik.toml`:
+### Time to Create Our Files
+
+In the `traefik` directory, we can now create the 3 files we need. First, `traefik.toml`:
 
 ```
 debug = false
@@ -143,7 +149,9 @@ This part is actually amazing. Traefik is going to dynamically manage all of the
 
 > For example, I am going to point `frankanderson.com` at a Docker container running the blogging software Ghost. If I ever decide to move to another blogging system like Wordpress or Jekyll, then all I have to do is set-up a new container in Docker and tell Traefik that frankanderson.com now points to the new container. To anyone connecting to `frankanderson.com`, the change will be seamless.
 
-### Second, create `docker-compose.yml` for the Traefik container in the `/opt/traefik` directory:
+### Create docker-compose.yml
+
+Second, create `docker-compose.yml` for the Traefik container in the `/opt/traefik` directory:
 
 ```
 version: '2'
