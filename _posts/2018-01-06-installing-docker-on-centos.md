@@ -1,6 +1,6 @@
 ---
 title: Installing Docker on CentOS
-tags: Docker Traffic Ghost Linux CentOS
+tags: Docker Traefik Ghost Linux CentOS
 author: Frank Anderson
 show_author_profile: true
 article_header:
