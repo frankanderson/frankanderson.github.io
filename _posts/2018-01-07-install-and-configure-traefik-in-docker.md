@@ -5,6 +5,8 @@ article_header:
   type: cover
   image:
     src: /assets/images/containers-stacked-unsplash.jpg
+sidebar:
+  nav: traefik1
 ---
 
 # Part 3 of [Build Your Site or Blog on Docker, Traefik, & Ghost](2018-01-05-build-your-site-on-docker-traefik-ghost.md)
@@ -234,9 +236,3 @@ If everything is working as intended, you'll be asked to enter your username and
 ![traefik-web-frontend](/assets/images/traefik-web-frontend.png)
 
 In my next article, I'll discuss the comparatively easy task of adding containers to Traefik and Docker.
-
-
-
-[Go to Part 1](2018-01-05-build-your-site-on-docker-traefik-ghost.md): Build Your Site or Blog on Docker, Traefik, & Ghost
-
-[Go to Part 2](2018-01-06-installing-docker-on-centos.md): Installing Docker on CentOS
