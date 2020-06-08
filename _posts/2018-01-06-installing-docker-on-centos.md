@@ -55,6 +55,6 @@ docker-compose version 1.17.1, build 6d101fb
 
 
 
-[Go to Part 1](build-your-site-on-docker-traefik-ghost): Build Your Site or Blog on Docker, Traefik, and Ghost
+[Go to Part 1](2018-01-05-build-your-site-on-docker-traefik-ghost.md): Build Your Site or Blog on Docker, Traefik, and Ghost
 
-[Go to Part 3](install-and-configure-traefik-in-docker): Install and Configure Traefik
+[Go to Part 3](2018-01-07-install-and-configure-traefik-in-docker.md): Install and Configure Traefik
