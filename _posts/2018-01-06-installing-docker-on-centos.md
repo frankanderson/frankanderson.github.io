@@ -1,10 +1,12 @@
 ---
 title: Installing Docker on CentOS
 tags: Docker Traffic Ghost Linux CentOS
+author: Frank Anderson
+show_author_profile: true
 article_header:
   type: cover
   image:
-    src: /assets/image/containers-stacked-unsplash.jpg
+    src: /assets/images/containers-stacked-unsplash.jpg
 ---
 
 ## Part 2 of [Build Your Site or Blog on Docker, Traefik, & Ghost](build-your-site-on-docker-traefik-ghost)
