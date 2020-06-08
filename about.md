@@ -33,8 +33,40 @@ Prior to my current job, I was a privacy attorney at an [independent federal age
 
 Prior to moving to the Privacy Office at the agency, I was in the Bankruptcy, Transaction, & Terminations group for approximately 14 years. I represented the agency in chapter 11 bankruptcy cases and corporate transactions involving companies that sponsor pension plans. I also advised the agency on ERISA and regulatory matters.
 
-In college, I worked at the help desk and taught non-credit classes on UNIX and web technologies for the Academic Computing department. I've been building and administering servers in my spare time for about 20 years.
+In college, I worked at the help desk and taught non-credit classes on UNIX and web technologies for the Academic Computing department. I've been building and administering servers in my spare time for about 20 years.  
 
-You can view my resume [here](resume.md).
+# **Resume / CV**
+
+### **Work History**
+
+*Lead Counsel - Data, Security, and Technology*  
+**TriNet** - Alexandria, VA
+
+*Privacy Attorney*  
+**Pension Benefit Guaranty Corporation** - Washington, D.C.
+
+*Attorney - Bankruptcy, Transactions, and Termination Group*  
+**Pension Benefit Guaranty Corporation** - Washington, D.C.
+
+### **Education**
+
+**Master of Engineering, Cybersecurity Policy and Compliance**  
+[George Washington University](https://www.seas.gwu.edu/) - Washington, D.C.
+
+**Juris Doctor**  
+[American University](https://www.wcl.american.edu/) - Washington, D.C.
+
+**Bachelor of Arts, Political Science**		        
+[University of South Florida](http://www.usf.edu/) - Tampa, FL
+
+### **Certifications & Specialized Training**
+
+[Certified Information Privacy Manager - CIPM](https://iapp.org/certify/cipm/), International Association of Privacy Professionals
+
+[Certified Information Privacy Professional/Government - CIPP/G](https://iapp.org/certify/cipp/), International Association of Privacy Professionals
+
+Privacy Boot Camp, [Federal Privacy Council](https://www.fpc.gov/) (Spring 2017)  
+
+
 
 Email me at `echo ZnJhbmtAZnRqY3IuY29tCg== | base64 -d` or via the [Contact](contact.md) page.
