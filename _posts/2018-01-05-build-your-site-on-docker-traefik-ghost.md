@@ -1,6 +1,5 @@
 ---
 title: Build Your Site or Blog with Docker, Traefik, and Ghost
-show_author_profile: true
 tags: Docker Traefik Ghost Linux
 article_header:
   type: cover
