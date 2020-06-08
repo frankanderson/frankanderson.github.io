@@ -2,11 +2,11 @@
 title: Install and Configure Traefik 1.7 in Docker
 author: Frank Anderson
 show_author_profile: true
-tags: Docker Traffic Ghost Linux CentOS
+tags: Docker Traefik Ghost Linux CentOS
 article_header:
   type: cover
   image:
-    src: /assets/image/containers-stacked-unsplash.jpg
+    src: /assets/images/containers-stacked-unsplash.jpg
 ---
 
 # Part 3 of [Build Your Site or Blog on Docker, Traefik, & Ghost](2018-01-05-build-your-site-on-docker-traefik-ghost.md)
