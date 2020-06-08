@@ -5,6 +5,8 @@ article_header:
   type: cover
   image:
     src: /assets/images/containers-stacked-unsplash.jpg
+sidebar:
+  nav: traefik1
 ---
 
 ## Part 2 of [Build Your Site or Blog on Docker, Traefik, & Ghost](2018-01-05-build-your-site-on-docker-traefik-ghost.md)
