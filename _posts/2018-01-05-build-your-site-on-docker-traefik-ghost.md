@@ -1,5 +1,7 @@
 ---
 title: Build Your Site or Blog with Docker, Traefik, and Ghost
+author: Frank Anderson
+show_author_profile: true
 tags: Docker Traffic Ghost
 article_header:
   type: cover
@@ -7,7 +9,7 @@ article_header:
     src: /assets/images/containers-stacked-unsplash.jpg
 ---
 
-## Part 1: Introduction and Goals for this Project  
+## Introduction and Goals for this Project  
 
 Whenever I update my personal site, I always try to incorporate new apps and technologies that I am interested in learning about. I've been using [Docker](https://www.docker.com/) on my home network for a while and it has really changed my approach to building servers. Docker containers are fast and lightweight. Even better, they are a breeze to administer and allow you to do some interesting thing with networking and encryption.
 
