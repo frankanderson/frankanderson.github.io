@@ -7,7 +7,7 @@ article_header:
     src: /assets/image/containers-stacked-unsplash.jpg
 ---
 
-# Part 3 of [Build Your Site or Blog on Docker, Traefik, & Ghost](build-your-site-on-docker-traefik-ghost)
+# Part 3 of [Build Your Site or Blog on Docker, Traefik, & Ghost](2018-01-05-build-your-site-on-docker-traefik-ghost.md)
 
 Before we get our Traefik 1.7 container up and running, we need to create a configuration file and an encrypted password so we can access the monitoring dashboard.
 
@@ -229,6 +229,6 @@ In my next article, I'll discuss the comparatively easy task of adding container
 
 
 
-[Go to Part 1](https://frankanderson.com/2018-05-01-build-your-site-on-docker-traefik-ghost.md): Build Your Site or Blog on Docker, Traefik, & Ghost
+[Go to Part 1](2018-01-05-build-your-site-on-docker-traefik-ghost.md): Build Your Site or Blog on Docker, Traefik, & Ghost
 
-[Go to Part 2](https://frankanderson.com/2018-06-01-installing-docker-on-centos.md): Installing Docker on CentOS
+[Go to Part 2](2018-01-06-installing-docker-on-centos.md): Installing Docker on CentOS
