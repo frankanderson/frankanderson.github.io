@@ -9,7 +9,7 @@ article_header:
     src: /assets/images/containers-stacked-unsplash.jpg
 ---
 
-## Part 2 of [Build Your Site or Blog on Docker, Traefik, & Ghost](build-your-site-on-docker-traefik-ghost)
+## Part 2 of [Build Your Site or Blog on Docker, Traefik, & Ghost](2018-01-05-build-your-site-on-docker-traefik-ghost)
 
 Using the appropriate package manager for your distro, update your software and install Docker:
 
