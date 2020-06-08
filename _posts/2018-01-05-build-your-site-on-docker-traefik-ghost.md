@@ -4,7 +4,7 @@ tags: Docker Traffic Ghost
 article_header:
   type: cover
   image:
-    src: /assets/image/containers-stacked-unsplash.jpg
+    src: /assets/images/containers-stacked-unsplash.jpg
 ---
 
 ## Part 1: Introduction and Goals for this Project  
@@ -25,6 +25,6 @@ I'm using CentOS 7 x64 on a [Vultr](https://www.vultr.com/?ref=7091040) VPS with
 
 In order to follow along, you'll need an A record pointing at your IP and a CNAME pointing at your domain for the "monitor" subdomain. You can set these records at the place where you manage your DNS.
 
-[Go to Part 2](installing-docker-on-centos): Installing Docker on CentOS
+[Go to Part 2](2018-01-06-installing-docker-on-centos.md): Installing Docker on CentOS
 
-[Go to Part 3](install-and-configure-traefik-in-docker): Install and Configure Traefik
+[Go to Part 3](2018-01-07-install-and-configure-traefik-in-docker.md): Install and Configure Traefik
