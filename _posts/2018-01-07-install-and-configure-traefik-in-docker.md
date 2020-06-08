@@ -229,6 +229,6 @@ In my next article, I'll discuss the comparatively easy task of adding container
 
 
 
-[Go to Part 1](build-your-site-on-docker-traefik-ghost.md): Build Your Site on Docker, Traefik, & Ghost
+[Go to Part 1](2018-05-01-build-your-site-on-docker-traefik-ghost.md): Build Your Site or Blog on Docker, Traefik, & Ghost
 
-[Go to Part 2](installing-docker-on-centos.md): Installing Docker on CentOS
+[Go to Part 2](2018-06-01-installing-docker-on-centos.md): Installing Docker on CentOS
