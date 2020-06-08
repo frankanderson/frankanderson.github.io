@@ -26,6 +26,6 @@ I'm using CentOS 7 x64 on a [Vultr](https://www.vultr.com/?ref=7091040) VPS with
 
 In order to follow along, you'll need an A record pointing at your IP and a CNAME pointing at your domain for the "monitor" subdomain. You can set these records at the place where you manage your DNS.
 
-[Go to Part 2](2018-01-06-installing-docker-on-centos.md): Installing Docker on CentOS
+[Go to Part 2](2018-01-06-installing-docker-on-centos.html): Installing Docker on CentOS
 
-[Go to Part 3](2018-01-07-install-and-configure-traefik-in-docker.md): Install and Configure Traefik
+[Go to Part 3](2018-01-07-install-and-configure-traefik-in-docker.html): Install and Configure Traefik
