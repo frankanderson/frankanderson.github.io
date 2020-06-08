@@ -1,7 +1,5 @@
 ---
 title: Install and Configure Traefik 1.7 in Docker
-author: Frank Anderson
-show_author_profile: true
 tags: Docker Traefik Ghost Linux CentOS
 article_header:
   type: cover
