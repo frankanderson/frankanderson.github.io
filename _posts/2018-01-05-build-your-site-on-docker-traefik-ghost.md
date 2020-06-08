@@ -1,10 +1,12 @@
 ---
 title: Build Your Site or Blog with Docker, Traefik, and Ghost
-tags: Docker Traefik Ghost Linux
+tags: Docker Traefik Ghost Linux CentOS
 article_header:
   type: cover
   image:
     src: /assets/images/containers-stacked-unsplash.jpg
+sidebar:
+  nav: traefik1
 ---
 
 ## Introduction and Goals for this Project  
