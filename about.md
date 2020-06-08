@@ -42,6 +42,9 @@ In college, I worked at the help desk and taught non-credit classes on UNIX and 
 *Lead Counsel - Data, Security, and Technology*  
 **TriNet** - Alexandria, VA
 
+*Corporate Counsel - Data Security and Privacy*  
+**TriNet** - Alexandria, VA
+
 *Privacy Attorney*  
 **Pension Benefit Guaranty Corporation** - Washington, D.C.
 
@@ -69,4 +72,5 @@ Privacy Boot Camp, [Federal Privacy Council](https://www.fpc.gov/) (Spring 2017)
 
 
 
-Email me at `echo ZnJhbmtAZnRqY3IuY29tCg== | base64 -d` or via the [Contact](contact.md) page.
+Email me at `echo ZnJhbmtAZnRqY3IuY29tCg== | base64 -d`  
+
