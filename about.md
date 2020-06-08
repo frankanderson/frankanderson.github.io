@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![TeXt Theme](https://raw.githubusercontent.com/frankanderson/frankanderson.github.io/master/assets/images/chess-unsplash.jpg)
 
 I am a data, security, and technology attorney for a company that provides comprehensive human resources solutions for small and midsize businesses. 
 
