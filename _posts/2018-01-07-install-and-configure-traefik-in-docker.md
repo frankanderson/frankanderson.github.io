@@ -1,5 +1,7 @@
 ---
 title: Install and Configure Traefik 1.7 in Docker
+author: Frank Anderson
+show_author_profile: true
 tags: Docker Traffic Ghost Linux CentOS
 article_header:
   type: cover
@@ -197,7 +199,7 @@ Then lock down the permissions so that only `root` can read and write this file:
 
 > You may be wondering why we have to create `acme.json` before we mount it in a Docker container when Docker will create directories all by itself. The answer is that Docker assumes that a non-existant mountpoint in the host system will be a directory, not a file. So if you want ti to mount a file, you need to create it before initializing your container.
 
-## Create the Traefik container
+### Create the Traefik container
 
 Now we are finally ready to create the Traefik container. In the `/opt/traefik` directory, run the following command:
 
