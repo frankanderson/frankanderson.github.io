@@ -1,13 +1,11 @@
 ---
-title: Build Your Sute with Docker, Traefik, and Ghost
+title: Build Your Site or Blog with Docker, Traefik, and Ghost
 tags: Docker Traffic Ghost
 article_header:
   type: cover
   image:
     src: /assets/image/containers-stacked-unsplash.jpg
 ---
-
-# Build Your Site on Docker, Traefik, & Ghost  
 
 ## Part 1: Introduction and Goals for this Project  
 
